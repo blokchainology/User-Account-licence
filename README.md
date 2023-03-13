@@ -2,7 +2,7 @@
 This is a script for Calculat User Account Limit (Days)
 
 # HowToUse?
-## Just Call `Active` (Function) in main.py
+- Just Call `Active` (Function) in main.py
 
 # HowInstall?
 ## Just Clone main.py
